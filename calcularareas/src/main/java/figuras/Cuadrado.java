@@ -9,7 +9,7 @@ public class Cuadrado extends Poligono {
 	this.longitudLados[0] = longitudLado;
 	this.longitudLados[1] = longitudLado;	
 	this.longitudLados[2] = longitudLado;
-	this.longitudLados[3] = longitudLado
+	this.longitudLados[3] = longitudLado;
     }
 
     @Override
