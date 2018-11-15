@@ -5,7 +5,7 @@ import sys
 import datetime
 
 appId = 'AGNJ5BCN'
-uids= 'UBX4D9LD,UQ2LWZNP,'
+uids= 'UBX4D9LD,UQ2LWZNP,UYHQVXH9'
 sitio = 'isfei.ddns.net:32400'
 sitio = parse.quote(sitio)
 
